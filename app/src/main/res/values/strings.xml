@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeAway</string>
+    <string name="title_picture">Title Picture</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="fav_code">101</string>
+    <string name="event">event</string>
+    <string name="favorites">Favorites</string>
+    <string name="is_favorite">IsFavorite</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="search_hint">Enter name or start typing</string>
+</resources>

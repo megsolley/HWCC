@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/krishna.wadhwani/dev/git/HomeAway/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/krishna.wadhwani/dev/git/HomeAway/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c9ba163f57004c9e506a9ce8bf70fab52b1fbb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/krishna.wadhwani/dev/git/HomeAway/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa3266166ca576f6d2f07c4152910457e658716e">
+        <dex dex="/Users/krishna.wadhwani/dev/git/HomeAway/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e30ec15d207789e5ac15b2f5a66a13208f9270dd/classes.dex" />
+    </item>
+
+</items>
